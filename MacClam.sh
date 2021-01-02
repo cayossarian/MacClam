@@ -38,6 +38,7 @@ INSTALLDIR="$HOME/MacClam"
 MONITOR_DIRS=(
     "$HOME"
     "/Applications"
+    "/Users"
 )
 
 # Directory patterns to exclude from scanning (this is a substring match)
