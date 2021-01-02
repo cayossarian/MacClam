@@ -1,4 +1,4 @@
-# MacClam
+# MacClam - forked from killdash9
 
 The Non-Graphical ClamAV Antivirus Solution for Mac OS X
 
@@ -34,7 +34,7 @@ package with
 
 Installation is very simple.  After installing prerequisite tools, type the following in a terminal.
 
-    curl -O https://raw.githubusercontent.com/killdash9/MacClam/master/MacClam.sh
+    curl -O https://raw.githubusercontent.com/cayossarian/MacClam/master/MacClam.sh
     chmod +x MacClam.sh
     ./MacClam.sh
 
